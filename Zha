@@ -1,0 +1,17 @@
+{
+//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
+"Version":"1.2",
+//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
+"Url":"https://github.com/Shangyi69/Shangyi69/raw/main/zawhtet.zip" ,
+"Changelog":"
+မ ဂင်္လာပါ 
+ ဖိုင်အသစ်
+",
+//ไม่ต้องยุ่งด้านล่าง
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+  "-Demo"
+    ]
+    }
