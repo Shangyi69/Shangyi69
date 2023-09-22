@@ -1,11 +1,10 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.1",
+"Version":"1.3.1.27",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/Shangyi69/Shangyi69/raw/main/Ok.zip" ,
+"Url":"https://github.com/Shangyi69/Shangyi69/raw/main/Shan.zip" ,
 "Changelog":"
-မ ဂင်္လာပါ 
- TRUE & DTAC 5
+မဂ်လာပါ🙏🙏🙏 ဖိုင်အသစ်တွေ့ပြောင်လဲထားသောကြောင် (update) အပ်ဒိတ်နိပ်ပေးပါ🙏
 ",
 //ไม่ต้องยุ่งด้านล่าง
 "latestVersion": "1.0.0",
