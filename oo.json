@@ -1,23 +1,60 @@
 {
 
    "files": [    
+
 {
 
-         "name": "TH-VIP-001",
+         "name": "VIP_DTAC-TRUE-01",
 
-         "url": "https://github.com/Shangyi69/Shangyi69/raw/main/oo.zip"
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_DTAC-TRUE-01.ovpn"
 
       },
 
 
+{
+
+         "name": "VIP_GAME-01",
+
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME.ovpn"
+
+      },
+
       
+{
 
-],
+         "name": "VIP_GAME-02",
 
-"message":"23 September 2023\n\n•Version:13\n\n•✅Add VIP-10 IP✅\n\n📢By :Zaw Htet Aung📢",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME-1.ovpn"
 
-   "title":"oo" ,
+      },
 
-   "version": 15
+{
+
+         "name": "VIP_GAME-03",
+
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME-2.ovpn"
+
+      },
+
+
+{
+
+         "name": "VIP_GAME-04",
+
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/oo-01.ovpn"
+
+      }
+
+     
+
+
+     
+   ],
+
+"message":"24 September 2023\n\n•Version:27\n\n•✅ဖိုင်အသစ်များ✅\n\n📢By :Phoe Shan📢",
+
+   "title":"UPDATE နိပ့်ပေးပါ" ,
+
+   "version": 27
 
 }
