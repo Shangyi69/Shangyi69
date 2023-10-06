@@ -2,8 +2,8 @@
    "files": [    
 
 {
-         "name": "VIP_DTAC-TRUE-01",
-         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_DTAC-TRUE-01.ovpn"
+         "name": "TH01-DTAC-TRUE-VIP-01",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/TH01-DTAC-TRUE-VIP-01.ovpn"
       },
 
 {
@@ -19,5 +19,5 @@
 
    "title":"" ,UPDATE
 
-   "version": 1
+   "version": 2
  }
