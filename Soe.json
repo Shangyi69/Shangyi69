@@ -1,17 +1,52 @@
 {
-//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.1",
-//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/Shangyi69/Shangyi69/raw/main/Shan.zip" ,
-"Changelog":"
-မ ဂင်္လာပါ 
- TRUE & DTAC အဆင်ပြေပါ‌စေဗျာ
-",
-//ไม่ต้องยุ่งด้านล่าง
-"latestVersion": "1.0.0",
-"latestVersionCode": "1",
-"url": "",
- "releaseNotes": [
-  "-Demo"
-    ]
-}
+   "files": [    
+
+{
+         "name": "TH_001",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_DTAC-TRUE-01.ovpn"
+      },
+
+{
+
+         "name": "TH_002",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME.ovpn"
+      },
+     
+{
+
+         "name": "TH_003",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME-1.ovpn"
+      },
+
+{
+
+         "name": "TH_004",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME-2.ovpn"
+      },
+
+{
+
+         "name": "TH_005",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/oo-01.ovpn"
+      },
+
+{
+
+         "name": "TH_006",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME-05.ovpn"
+      },
+
+{
+         "name": "TH_007",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME-06.ovpn"
+      }
+
+         
+   ],
+
+"message":"19/10/2023\n\n•Version:45\n\n•❤️UPDATEကိုနိပ့်ပေးပါရန်❤️\n\n📢By :Phoe Shan📢",
+
+   "title":"Mosquito VPN" ,
+
+   "version": 1
+ }
