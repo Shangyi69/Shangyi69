@@ -2,8 +2,8 @@
    "files": [    
 
 {
-         "name": "TH_001",
-         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/true7.ovpn"
+         "name": "DTAC 01",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/free.ovpn"
       },
 
 {
@@ -44,9 +44,9 @@
          
    ],
 
-"message":"6/10/2023 True No pro OpenVpn test service 📢By :Phoe Shan📢",
+"message":"29/10/2023 DTAC OPENVPN service 📢By :Phoe Shan📢",
 
    "title":"Mosquito VPN" ,
 
-   "version": 13
+   "version": 14
  }
