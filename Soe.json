@@ -2,20 +2,20 @@
    "files": [    
 
 {
-         "name": "DTAC 01",
-         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/free.ovpn"
+         "name": "TH_001",
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/TCP.ovpn"
       },
 
 {
 
          "name": "TH_002",
-         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME.ovpn"
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/UDP.ovpn"
       },
      
 {
 
          "name": "TH_003",
-         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/VIP_GAME-1.ovpn"
+         "url": "https://raw.githubusercontent.com/Shangyi69/Shangyi69/main/WSSSL.ovpn"
       },
 
 {
@@ -44,9 +44,9 @@
          
    ],
 
-"message":"29/10/2023 DTAC OPENVPN service 📢By :Phoe Shan📢",
+"message":"13/6/2025 MYANMAR ALL SIM ALL WIFI GOODSPEED service 📢By :Phoe Shan📢",
 
    "title":"Mosquito VPN" ,
 
-   "version": 14
+   "version": 15
  }
